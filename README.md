@@ -15,7 +15,7 @@
  
 <h3 align="center">📫 Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/abdulloh-nigmonjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulloh-nig’monjonov" height="32" width="32" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/abdulloh-nigmonjonov" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="35" /></a>&nbsp;&nbsp;
   <a href="https://github.com/python-uz" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="32" width="32" /></a>&nbsp;&nbsp;
   <a href="https://t.me/pyctl" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" height="32" width="32" /></a>&nbsp;&nbsp;
   <a href="mailto:Obshiygaobshiy@gmail.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="32" width="32" /></a>
