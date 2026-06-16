@@ -53,15 +53,3 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=python-uz&show_icons=true&theme=tokyonight&hide_border=true" alt="python-uz stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=python-uz&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-uz&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
