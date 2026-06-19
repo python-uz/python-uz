@@ -46,10 +46,10 @@
 
 <h3 align="center">🤖 AI & Productivity:</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" height="38" width="38" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" height="38" width="38" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/412991" alt="ChatGPT" height="38" width="38" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Antigravity" height="38" width="38" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" alt="Claude Code" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/geminicli-color.svg" alt="Gemini CLI" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="ChatGPT" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" alt="Antigravity" width="40" height="40"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logoColor=white" alt="Claude Code"/>
@@ -62,17 +62,4 @@
 
 <p align="center">
   <em>I build backend &amp; frontend features through AI-assisted development — pairing Claude Code &amp; Gemini CLI for code,<br/>prompt engineering for precise delegation, and visual browser-driven design (Antigravity) for UI iteration.</em>
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=python-uz&show_icons=true&theme=tokyonight&hide_border=true" alt="python-uz stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=python-uz&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-uz&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
