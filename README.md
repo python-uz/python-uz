@@ -5,7 +5,6 @@
   <em>Building production-grade platforms with FastAPI, real-time WebSocket systems, and offline-first PWAs.</em>
 </p>
 
-- 🔭 I'm currently working on **[PravaOl.uz](https://pravaol.uz/)** — a full-stack Uzbek driving-theory platform (Web + Telegram Mini App)
 - ⚙️ I build with **Python, FastAPI, Django/DRF, SQLAlchemy 2 (async), PostgreSQL, Redis, and Docker**
 - 🌱 I'm currently deepening my skills in **distributed systems, atomic Redis, and async architecture at scale**
 - 💬 Ask me about **Python, FastAPI, REST APIs, WebSockets, and Telegram bot/Mini App development**
